@@ -1,0 +1,50 @@
+.abc{
+    text-align: center;
+    justify-content: center;
+    margin-left: 600px;
+    margin-top: 60px;
+}
+#header{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+input {
+    width: 150px;
+    border: 2px black solid;
+    border-radius: 5px;
+    height: 20px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 700px;
+    margin-top: 80px;
+}
+
+.left {
+    display: flex;
+    row-gap: 10px;
+    column-gap: 130px;
+}
+
+.middle {
+    display: flex;
+    row-gap: 10px;
+    column-gap: 155px;
+}
+
+.right {
+    display: flex;
+    row-gap: 10px;
+    column-gap: 125px;
+}
+
+.head1 {
+    display: flex;
+    column-gap: 40px;
+    margin-top: 20px;
+}
+
+.head2 {
+    display: flex;
+    column-gap: 165px;
+}
